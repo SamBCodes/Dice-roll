@@ -16,4 +16,4 @@ while 1:
         continue
     else:
         print('Wrong Choice! Exiting!')
-        exit
+        exit()

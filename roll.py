@@ -12,3 +12,8 @@ while 1:
     true = str(input("Roll Again(y/n)?"))
     if true == 'n':
         break
+    elif true == 'y':
+        continue
+    else:
+        print('Wrong Choice! Exiting!')
+        exit
